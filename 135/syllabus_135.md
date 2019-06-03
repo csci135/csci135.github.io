@@ -36,11 +36,11 @@ a:active {
     color: #00007F;
 }
 </style>
-**[CSCI 135/136&nbsp; ANALYSIS & DESIGN 1 &nbsp; &nbsp; HUNTER COLLEGE&nbsp; CITY UNIVERSITY OF NEW YORK](2019_spring.html)**  
+**[CSCI 135/136&nbsp; ANALYSIS & DESIGN 1 &nbsp; &nbsp; HUNTER COLLEGE&nbsp; CITY UNIVERSITY OF NEW YORK](2019_summer.html)**  
   
 CSCI 135 SOFTWARE ANALYSIS & DESIGN
-Sections 01, CSH1, X2-4 
-Monday, Wednesday, Thursday 12:10 – 1:00, Hunter North 118  
+Summer 2019
+Monday, Tuesday, Wednesday, Thursday 11:40 – 12:50, Hunter North 531  
 
 PRE- AND CO-REQUISITES  
 The prerequisite is CSCI 127 or instructor’s permission. At the very least, you should have written, compiled, and run a greater than one page long program containing iteration `while`, `for` and selection `if` statements.  CSCI 136 is a co-requisite, and you will receive a 0 in 135 if you don’t take 136. 
@@ -48,7 +48,7 @@ The prerequisite is CSCI 127 or instructor’s permission. At the very least, yo
 TEXT  
 Same as CSCI 135: Cay Horstmann, **Brief C++**, 3rd Edition eText only or eText/loose-leaf bundle. Purchase at the negotiated discounted price through this direct-to-student page:  [https://www.wiley.com/WileyCDA/Section/id-830954.html](https://www.wiley.com/WileyCDA/Section/id-830954.html) – do not buy from Amazon or Kindle store – you will not get access to the necessary interactive material!
   
-[MAIN COURSE PAGE](2019_spring.html){:target="_blank"}  
+[MAIN COURSE PAGE](2019_summer.html){:target="_blank"}  
 You should check this page regularly, since **all** class materials will be gradually posted here.  
 
 TUTORING  
@@ -61,7 +61,7 @@ GRADESCOPE
 You will submit all labs and projects electronicaly through Gradescope.  You will see your grades (including exam grades) on Gradescope as well.  An invite email was sent to you before the first lecture.  If you have not received it, ask your lab instructor to send you another one right away: you will neeed to email them your full name, EMPL ID, and a **good** email address.  
 
 BLACKBOARD  
-Make sure that you have configured BlackBoard to use your preferred email address (your Hunter email address, by default), since you are responsible for any email I might send there.  You will also need to be able to connect to BlackBoard from some connected device (a phone, a tablet, or a laptop) during labs and lectures: lab and lecture quizzes will be administered through BlackBoard.  
+This class will not make use of Blackboard.  
 
 SOFTWARE  
 You may use 1001C (in CSCI 136) or 1001B to do your work for this course. The standard Linux/Unix/MacOS C++ compiler is g++. If you wish to use a home computer, there are several free Linux OSs which you can install for dual-booting with Windows, including http://www.ubuntu.com . If you want a Linux-style environment for windows that doesn’t require installing Linux, http://cygwin.com is an alternative.  
@@ -77,7 +77,7 @@ The composition of the course grade is as follows:
 17% each of the two midterm tets <br/>
 **Note**: if you do better on the second midterm test than on the first one, the second midterm's grade will count for both.  
 34% final exam  
-**Note**: final exam score will override lover quiz and homework scores, as well as the lowest of the three project scores
+**Note**: final exam score will override lower quiz and homework scores, as well as the lowest of the three project scores
 **However**: no matter the total score, **if you fail the final exam, you fail the course**.  
   
 LATE AND MAKE UP POLICY  

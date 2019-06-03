@@ -37,7 +37,7 @@ a:active {
     color: #00007F;
 }
 </style>
-**[CSCI 135/136&nbsp; ANALYSIS & DESIGN 1 &nbsp; &nbsp; HUNTER COLLEGE&nbsp; CITY UNIVERSITY OF NEW YORK](2019_spring.html)**  
+**[CSCI 135/136&nbsp; ANALYSIS & DESIGN 1 &nbsp; &nbsp; HUNTER COLLEGE&nbsp; CITY UNIVERSITY OF NEW YORK](2019_summer.html)**  
   
 CSCI 136 SYLLABUS  
   
@@ -50,10 +50,7 @@ TEXT
 Same as CSCI 135: Cay Horstmann, **Brief C++**, 3rd Edition eText only or eText/loose-leaf bundle. Purchase at the negotiated discounted price through this direct-to-student page:  [https://www.wiley.com/WileyCDA/Section/id-830954.html](https://www.wiley.com/WileyCDA/Section/id-830954.html) - not from Amazon or Kindle store.  
 
 LABS  
-Lab Assignments will be posted on the [Main Course Page](2019_spring.html){:target="_blank"}. You submit your solutions through Gradescope. The labs will be posted in advance. Please read the tasks before you come to class. You should try to finish and submitt all lab tasks by the end of the lab period. 
-
-LAB QUIZZES  
-There will be a lab quiz during each lab period.  The **quizzes will count for 14%** of your CSCI 136 course grade.  If you already took and passed CSCI 136, you should not take these quizzes.  
+Lab Assignments will be posted on the [Main Course Page](2019_summer.html){:target="_blank"}. You submit your solutions through Gradescope. The labs will be posted in advance. Please read the tasks before you come to class. You should try to finish and submitt all lab tasks by the end of the lab period. 
 
 All CSCI 135 programming projects and exams contribute to your CSCI 135 grade. Whereas all labs contribute only to your CSCI 136 grade. Both classes follow the same grading criteria.  
 For more detailed information, see your CSCI 135 syllabus.  
